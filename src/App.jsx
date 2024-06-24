@@ -1,10 +1,10 @@
-import { DemonstratingProps } from "./components/demo/DemonstratingProps";
+import { FizzBuzzDisplayAndButtons } from "./components/demo/FizzBuzzDisplayAndButtons";
 
 function App() {
     return (
         <div>
-            <h1>App component</h1>
-            <DemonstratingProps />
+            <h4>FizzBuzz app</h4>
+            <FizzBuzzDisplayAndButtons />
         </div>
     );
 }
